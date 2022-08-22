@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Bai5 {
     public static void main(String[] args) {
-        String  s = "3[a2[c]]";
+        String  s = "100[leetcode]";
         String a=decodeString(s);
         System.out.println(a);
 
